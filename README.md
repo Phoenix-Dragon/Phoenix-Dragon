@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi ! My name is Aurélien DESUMEUR<br>web development student<br><br>
-
 ---
-
 <br><br>I started learning to code in high school so I could make my first video game. It was a platformer with just one level where you had to collect a key to open a door. It was simple, but it made me want to keep going, so now I’m a freshman at a computer science school.<br><br>🌍 I'm based in France - Toulouse<br>🧠 I'm currently learning What we cover in school: Python, HTML, CSS, a bit of JavaScript, PHP, and we'll cover more topics in our second year<br>💬 I'm going to create a RPG during my holidays.<br><br>
 
 
